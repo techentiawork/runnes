@@ -15,7 +15,7 @@ function Dashboard() {
             to: "0xd97e...b38ad7",
             deposit: "0xd97e...b38ad7",
             withdraw: "-",
-            status: "Waiting Cliam"
+            status: "Waiting Claim"
         },
         {
             date: "9 days ago",
