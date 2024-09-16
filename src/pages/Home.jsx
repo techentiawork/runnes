@@ -1,9 +1,9 @@
-import { Blog } from "../components";
+import { Blog, WithdrawCrypto } from "../components";
 
 function Home() {
     return (
         <div>
-            <Blog />
+            <WithdrawCrypto />
         </div>
     );
 }

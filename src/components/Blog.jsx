@@ -86,8 +86,8 @@ function Blog() {
                     <div className="w-full max-w-full">
                         <div className="flex flex-col gap-4 md:gap-6 lg:gap-10 md:-mt-[60px]">
                             <div className="bg-white px-2">
-                                <span className="text-[#ff0025] text-[20px] xs:text-[28px] md:text-[36px] xl:text-5xl font-bold font-bricolage">Crypto </span>
-                                <span className="text-[#1f1f1f] text-[20px] xs:text-[28px] md:text-[36px] xl:text-5xl font-bold font-bricolage">blog</span>
+                                <span className="text-[#ff0025] text-[20px] xs:text-[28px] md:text-[36px] xl:text-5xl font-bold font-bricolage">New listing </span>
+                                <span className="text-[#1f1f1f] text-[20px] xs:text-[28px] md:text-[36px] xl:text-5xl font-bold font-bricolage">token</span>
                             </div>
                             <div className="max-w-full w-full overflow-x-hidden">
                                 <div className="max-w-full w-full overflow-x-auto">
